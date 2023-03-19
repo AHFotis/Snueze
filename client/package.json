@@ -24,7 +24,9 @@
     "react-scripts": "3.4.3",
     "react-sound": "^1.2.0",
     "react-speech-recognition": "^3.8.0",
-    "react-tooltip": "^4.2.19"
+    "react-tooltip": "^4.2.19",
+    "twilio": "^3.62.0",
+    "twilio-video": "^2.3"
   },
   "scripts": {
     "start": "react-scripts start",
