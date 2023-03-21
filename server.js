@@ -19,7 +19,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      'https://snueze.herokuapp.com',
+      'https://snueze-production.up.railway.app',
       'http://localhost:3000'
     ],
     credentials: true
