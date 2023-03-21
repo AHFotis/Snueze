@@ -9,7 +9,7 @@ Nearly 70 million Americans suffer from a sleep disorder. Lack of sleep affects 
 
 Snuze is a tranquil React app, and was designed to meet the needs of users who want some extra help to fall asleep comfortably. Snuze users benefit from free access to relaxing audio, nightly sleep quality tracking, data-based resource recommendations, an online community of other Snuzers, speech-based journaling and site navigation, and so much more. Don't sleep on Snuze - visit us tonight!
 
-[Try Snuze on Heroku](https://snueze.herokuapp.com/)
+[Try Snuze on Railway](https://snueze-production.up.railway.app/)
 
 ![image](https://user-images.githubusercontent.com/74335621/119747814-23fbbf80-be59-11eb-9edb-09f1ab6893a3.png)
 
