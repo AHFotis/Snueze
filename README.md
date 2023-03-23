@@ -75,7 +75,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Questions
 Please feel free to reach out with any questions:
 
-- Anna Fotis: annahickey2@gmail.com
+- Anna Fotis: annahickeyfotis@gmail.com
 - Omaur Bliss: omaurbliss@gmail.com
 - Lita Beach: litabeach123@gmail.com
 - Kyle Kleven: kylekleven8@gmail.com
