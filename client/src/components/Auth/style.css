@@ -18,6 +18,10 @@
     margin-top: 10px;
 }
 
+.no-margin-button {
+    margin-top: 0 !important;
+}
+
 .register-form {
     display: flex;
     flex-direction: column;

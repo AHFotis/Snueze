@@ -55,7 +55,7 @@ function Notes() {
                         <Form.Control type="date" name="date" onChange={handleInputChange}></Form.Control>
                     </Col>
                     <Col sm={3}>
-                        <Button className="btn" onClick={() => handleNoteSearch(searchDate)}>Search</Button>
+                        <Button className="no-margin-button" onClick={() => handleNoteSearch(searchDate)}>Search</Button>
                     </Col>
                     <Col sm={6}>
                         <Form.Text>
